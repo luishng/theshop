@@ -1,6 +1,13 @@
 <h1 align="center">
-  <img src=".github/logo.png" alt="Logo">
+  <img src=".github/logo.png" width="200px" height="100px" alt="Logo">
 </h1>
+
+<h5 align="center">
+  You can see live hosted by vercel
+
+<a href="https://theshop-h3zk.vercel.app/">Click Here<a/>
+
+</h2>
 
 <h3 align="center">
   TheShop - An app to buy your clothes
