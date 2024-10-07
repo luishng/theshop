@@ -7,9 +7,9 @@
 </h3>
 
 <h1 align="center">
-  <img width="200px" height="350px" src=".github/Screenshot_1.png" alt="Home">
-  <img width="200px" height="350px"src=".github/Screenshot_2.png" alt="Product Detail">
-  <img width="200px" height="350px"src=".github/Screenshot_3.png" alt="Success">
+  <img width="400px" height="250px" src=".github/Screenshot_1.png" alt="Home">
+  <img width="400px" height="250px"src=".github/Screenshot_2.png" alt="Product Detail">
+  <img width="400px" height="250px"src=".github/Screenshot_3.png" alt="Success">
 </h1>
 
 <p align="center">
